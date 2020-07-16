@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/triangle.dir/triangle.cpp.o  -o triangle 

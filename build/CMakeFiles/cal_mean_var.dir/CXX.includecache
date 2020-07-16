@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/majie/yihang/cal_mean_var.cpp
+iostream
+-
+vector
+-
+math.h
+-
+queue
+-
+algorithm
+-
+

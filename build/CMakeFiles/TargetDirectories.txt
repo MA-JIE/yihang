@@ -1,0 +1,5 @@
+/home/majie/yihang/build/CMakeFiles/rebuild_cache.dir
+/home/majie/yihang/build/CMakeFiles/edit_cache.dir
+/home/majie/yihang/build/CMakeFiles/homography.dir
+/home/majie/yihang/build/CMakeFiles/triangle.dir
+/home/majie/yihang/build/CMakeFiles/cal_mean_var.dir
