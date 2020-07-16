@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8.3)
+project(coding_test)
+add_compile_options(-std=c++11)
+LIST(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
+add_executable(triangle triangle.cpp)
+add_executable(cal_mean_var cal_mean_var.cpp)
+add_executable(homography homography.cpp)
